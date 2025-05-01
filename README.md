@@ -1,4 +1,4 @@
-# Google Search Engine Knowledge
+# Google Search Engine Knowledge.
 
 ## Advanced Search
 - [Use An Exact Phrase](#use-an-exact-phrase)
